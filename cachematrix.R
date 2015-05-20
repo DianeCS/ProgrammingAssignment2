@@ -1,6 +1,11 @@
 ## This pair of functions reduces computations by storing a matrix's inverse
 ## once it is calculated so that stored inverse can be returned in the future
 ## as long as the matrix isn't changed
+##
+## written by DianeCS week of 5/17/15
+## for R Programming course
+## based on course sample code from makeVector and cacheMean
+## 
 
 ## makeCacheMatrix creates a matrix object that can cache its inverse
 
